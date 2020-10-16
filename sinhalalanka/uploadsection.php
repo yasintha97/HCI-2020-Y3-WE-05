@@ -154,7 +154,7 @@
 <!-- Banner start -->
 <div class="banner banner_video_bg" id="banner">
     <div class="pattern-overlay">
-   <a id="bgndVideo" class="player" data-property="{videoURL:'https://m.youtube.com/watch?v=dmHguwpdjso',containment:'.banner_video_bg', quality:'large', autoPlay:false, mute:true, opacity:1}">bg</a>
+   <a id="bgndVideo" class="player" data-property="{videoURL:'https://m.youtube.com/watch?v=dmHguwpdjso',containment:'.banner_video_bg', quality:'large', autoPlay:true, mute:true, opacity:1}">bg</a>
     </div>
     <div id="bannerCarousole" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
@@ -181,8 +181,8 @@
     <div class="container">
         <!-- Main title -->
         <div class="main-title">
-            <h1>Vedios</h1>
-            <p>Uploaded vedios section</p>
+            <h1>Videos</h1>
+            <p>Uploaded videos section</p>
         </div>
         <div class="row">
     <?php
@@ -221,8 +221,8 @@
     <div class="container">
         <!-- Main title -->
         <div class="main-title text-center">
-            <h1>Vedio Upload Section</h1>
-            <p>Upload your vedios here..</p>
+            <h1>Video Upload Section</h1>
+            <p>Upload your videos here..</p>
         </div>
         <div class="row">
             <div class="submit-address dashboard-list">

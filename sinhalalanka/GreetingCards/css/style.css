@@ -35,6 +35,39 @@ Version:    1.1.0
     26. Main Footer / .main-footer
     27. Sub Footer / .sub-footer
 -------------------------------------------------------------------*/
+.setting-button{
+    display: none;
+}
+
+.btn button-theme.btn-search.btn-block.mb-0 {
+    background: #f0c52e !important;
+}
+.services-4 .service-info-2 {
+    border-left: dashed 1px #f0c52e !important;
+}
+.services-2 {
+    background: url(../img/19.jpg)!important;
+}
+.main-header .navbar-expand-lg .navbar-nav .nav-link:hover {
+    color: #f0c52e!important;
+}
+
+#page_scroller {
+    background: #f0c52e!important;
+}
+.services-2 .service-info:before{
+        background: #000000 !important;
+}
+.intro-section {
+    background: #f0c52e !important;
+}
+.btn-theme {
+    background: #f0c52e !important;
+    border: solid 1px #f0c52e !important;
+}
+.services-4 .service-info-2 .icon {
+    color: #000000 !important;
+}
 /** Global classes**/
 .banner-inner .photo{
     padding: 2px;

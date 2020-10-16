@@ -7,12 +7,12 @@
 }
 
 .intro-section-2 .btn {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .main-header .navbar-light .navbar-toggler {
-    border: solid 1px #ff214f;
-    background: #ff214f;
+    border: solid 1px #f0c52e;
+    background: #f0c52e;
 }
 
 .intro-section-2 .btn:hover {
@@ -20,20 +20,20 @@
 }
 
 .about-info .Properties-info ul li {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .properties-details-Slider .heading-listing-3 .rent {
-    border: solid 1px #ff214f;
-    background: #ff214f;
+    border: solid 1px #f0c52e;
+    background: #f0c52e;
 }
 
 .properties-details-Slider .heading-listing-3 .location i {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .properties-details-Slider .price {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .intro-section-2:before {
@@ -46,23 +46,23 @@
 }
 
 .dashboard-header .breadcrumb-nav ul li a:hover{
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .top-header {
-    background-color: #ff214f;
+    background-color: #f0c52e;
 }
 
 .blog-2 .date-box {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .blog-2 .date-box::after {
-    border-right: 15px solid #ff214f;
+    border-right: 15px solid #f0c52e;
 }
 
 #page_scroller {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .intro-section .btn:hover{
@@ -70,79 +70,79 @@
 }
 
 .services-3 .services-2 .service-info {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .services-3 .service-info-2 .icon {
-    color: #ff214f;
-    border: dashed 1px #ff214f;
+    color: #f0c52e;
+    border: dashed 1px #f0c52e;
 }
 
 .services-4 .service-info-2 .icon {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .services-4 .service-info-2 .rm-btn{
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .counters-3 .counter-box h1 {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .counters-3 .counter-box .icon i{
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .property-box-3 .footer ul li a:hover{
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .service-info-2{
-    border-left: dashed 1px #ff214f;
+    border-left: dashed 1px #f0c52e;
 }
 
 .services-4 .service-info-2{
-    border-left: dashed 1px #ff214f;
+    border-left: dashed 1px #f0c52e;
 }
 
 .intro-section {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 /** Tab box 2 start **/
 .tab-box-2 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     background: transparent;
-    border-bottom: solid 2px #ff214f;
+    border-bottom: solid 2px #f0c52e;
     border-radius: 0;
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .tab-box .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     color: #fff;
-    background: #ff214f;
+    background: #f0c52e;
     border-radius: 0;
 }
 
 .checkbox-theme input[type="checkbox"]:checked + label::before {
-    border: 2px solid #ff214f;
+    border: 2px solid #f0c52e;
 }
 
 .main-header .dropdown-menu a:hover {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 input[type=checkbox]:checked + label:before {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .banner-bg-color{
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .btn-theme{
-    background: #ff214f;
-    border: solid 1px #ff214f;
+    background: #f0c52e;
+    border: solid 1px #f0c52e;
 }
 
 .btn-theme:hover{
@@ -152,16 +152,16 @@ input[type=checkbox]:checked + label:before {
 
 .btn-white-lg-outline:hover {
     color: #FFF;
-    background: #ff214f;
-    border: solid 2px #ff214f;
+    background: #f0c52e;
+    border: solid 2px #f0c52e;
 }
 
 .properties-amenities ul li i {
-    color: #ff214f
+    color: #f0c52e
 }
 
 .pages-404 .btn {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .pages-404 .btn:hover {
@@ -169,40 +169,40 @@ input[type=checkbox]:checked + label:before {
 }
 
 .border-button-theme {
-    color: #ff214f;
-    border: 2px solid #ff214f;
+    color: #f0c52e;
+    border: 2px solid #f0c52e;
 }
 
 .banner-detail-box .red-box {
-    background: #ff214f url(../../img/slider-detail.png) center center;
+    background: #f0c52e url(../../img/slider-detail.png) center center;
 }
 
 .banner-detail-box .white-box .slide-price {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .banner-detail-box .white-box .slide-location::after {
-    background-color: #ff214f;
+    background-color: #f0c52e;
 }
 
 .search-options-btn, .search-options-btn:hover {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .search-button {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .services-2 .service-info .icon i {
-    color: #ff214f!important;
+    color: #f0c52e!important;
 }
 
 .services-2 .service-info:before{
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .pricing-1 .plan-list ul li i{
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .search-button:hover {
@@ -211,17 +211,17 @@ input[type=checkbox]:checked + label:before {
 }
 
 .pricing-1 .plan-header .plan-price{
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .bootstrap-select.btn-group.show-tick .dropdown-menu li.selected a span.check-mark {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .bootstrap-select .dropdown-menu > .active > a,
 .bootstrap-select .dropdown-menu > .active > a:focus,
 .bootstrap-select .dropdown-menu > .active > a:hover {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .contact .bootstrap-select .dropdown-menu li a:hover .text {
@@ -229,84 +229,84 @@ input[type=checkbox]:checked + label:before {
 }
 
 .contact .bootstrap-select .dropdown-menu li a:hover{
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .listing-badges .featured {
-    background-color: #ff214f;
+    background-color: #f0c52e;
 }
 
 .recent-properties-box .detail header::after {
-    background-color: #ff214f;
+    background-color: #f0c52e;
 }
 
 .blog-1 .detail .post-meta span a i {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .blog-1 .detail h3 a:hover{
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .blog-1 .date-box{
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .about-info:before {
-    border: 2px dashed #ff214f;
+    border: 2px dashed #f0c52e;
 }
 
 .property-box .detail .title a {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 footer .footer-item .contact-info li label a:hover {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .service-box .heading .number h5 {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .service-box .heading .title h4 a:hover {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .main-header .form-inline .submit {
-    border: solid 1px #ff214f;
-    color: #ff214f;
+    border: solid 1px #f0c52e;
+    color: #f0c52e;
 }
 
 .main-header .form-inline .submit:hover {
-    border: solid 1px #ff214f;
-    background: #ff214f;
+    border: solid 1px #f0c52e;
+    background: #f0c52e;
     color: #fff;
 }
 
 .main-header .navbar-expand-lg .navbar-nav .nav-link:hover {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 /*.main-header .navbar-expand-lg .navbar-nav .active .nav-link {
-    color: #ff214f !important;
+    color: #f0c52e !important;
 }*/
 
 .main-header .navbar-expand-lg .user-account li a:hover {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .plan .price-header h1 {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .btn-outline {
-    border: solid 1px #ff214f;
-    color: #ff214f;
+    border: solid 1px #f0c52e;
+    color: #f0c52e;
 }
 
 .btn-outline:hover {
-    border: solid 1px #ff214f;
-    background: #ff214f;
+    border: solid 1px #f0c52e;
+    background: #f0c52e;
     color: #fff;
 }
 
@@ -317,21 +317,21 @@ footer .footer-item .contact-info li label a:hover {
 }
 
 .btn-outline-2 {
-    border: solid 2px #ff214f;
-    color: #ff214f;
+    border: solid 2px #f0c52e;
+    color: #f0c52e;
     font-weight: 600;
 }
 
 .heading-properties-2 h3 span {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .heading-properties-3 .rent{
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .heading-properties-3 .location i{
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .btn-outline-2:hover {
@@ -341,178 +341,178 @@ footer .footer-item .contact-info li label a:hover {
 }
 
 .map-properties .map-properties-fetures span i{
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .footer .form-inline .btn{
-    background: #ff214f;
+    background: #f0c52e;
     color: #fff;
 }
 
 .about-box .detail h3 {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 li.active.btn.filtr-button.filtr {
     color: #fff;
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .filteriz-navigation li:hover{
     color: #fff;
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .change-view-btn {
-    color: #ff214f;
-    border: solid 1px #ff214f;
+    color: #f0c52e;
+    border: solid 1px #f0c52e;
 }
 
 .change-view-btn:hover {
-    border: solid 1px #ff214f;
-    background: #ff214f;
+    border: solid 1px #f0c52e;
+    background: #f0c52e;
 }
 
 .sub-banner .page-info .breadcrumb-area ul li a:hover {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .active-view-btn {
-    background: #ff214f;
-    border: solid 1px #ff214f;
+    background: #f0c52e;
+    border: solid 1px #f0c52e;
 }
 
 .active-view-btn:hover {
-    border: solid 1px #ff214f;
-    color: #ff214f;
+    border: solid 1px #f0c52e;
+    color: #f0c52e;
 }
 
 .show-more-options {
-    color: #ff214f !important;
+    color: #f0c52e !important;
 }
 
 .form-content-box .footer span a {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .pagination > li > .active {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .pagination > li > a:hover {
-    background: #ff214f;
+    background: #f0c52e;
     color: #fff;
 }
 
 .read-more {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .property-box-4 .detail h3 a{
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .blog-2 .date-box {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .slick-btn .slick-arrow-buton-2{
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .property-box-5 .detail h3 a{
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .property-box-5 .tag-2 {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .property-box-5 .tag-2:after {
-    border-left: 10px solid #ff214f;
+    border-left: 10px solid #f0c52e;
 }
 
 .property-box-5 .plan-price {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .slick-btn .sab-4:hover {
-    background: #ff214f;
+    background: #f0c52e;
     color: #fff;
 }
 
 .slick-btn .sab-3:hover {
-    background: #ff214f;
+    background: #f0c52e;
     color: #fff;
 }
 
 .blog-2 h4 a{
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .blog-3 .date-box{
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .blog-2 .date-box::after {
-    border-right: 10px solid #ff214f;
+    border-right: 10px solid #f0c52e;
 }
 
 .blog-2 .detail h3 a {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .blog-2 .detail .post-meta span a i {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .counters-4 .counters-info-section:before {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .services-3:before {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .range-slider .ui-slider .ui-slider-handle {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .our-agent-sidebar .carousel-indicators .active {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .range-slider .ui-slider .ui-slider-handle {
-    border: 2px solid #ff214f;
+    border: 2px solid #f0c52e;
 }
 
 .range-slider .ui-widget-header {
-    background-color: #ff214f;
+    background-color: #f0c52e;
 }
 
 .b-btn{
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .blog-3 h3 a:hover{
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .posts-by-category ul li a:hover {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .tags-box ul li a:hover {
-    border: 1px solid #ff214f;
-    background: #ff214f;
+    border: 1px solid #f0c52e;
+    background: #f0c52e;
 }
 
 .latest-tweet a {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .comment-meta a {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .comment-meta a:hover {
@@ -520,123 +520,123 @@ li.active.btn.filtr-button.filtr {
 }
 
 .blog-tags a:hover {
-    border: 1px solid #ff214f;
-    background: #ff214f;
+    border: 1px solid #f0c52e;
+    background: #f0c52e;
     color: #fff;
 }
 
 .banner-6 .rent {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .banner-6 .meta ul li i {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .price-box span{
-    color: #ff214f;
+    color: #f0c52e;
     font-weight: 700;
 }
 
 .banner-6 .location i {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .banner-6 h2 span{
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .leaflet-container a.leaflet-popup-close-button {
-   color: #ff214f;
+   color: #f0c52e;
 }
 
 .breadcrumbs li a:hover {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .helping-center ul li i {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .my-account-box .title::after {
-    background-color: #ff214f;
+    background-color: #f0c52e;
 }
 
 .dashboard-nav ul li.active, .dashboard-nav ul li:hover {
-    border-color: #ff214f;
+    border-color: #f0c52e;
 }
 
 .breadcrumb-nav ul .active {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .dashboard-nav ul li a:hover {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .photoUpload span {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .typography-page mark.color {
-    background-color: #ff214f;
+    background-color: #f0c52e;
 }
 
 .faq-accordion .card-header .collapsed.card-title:before {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .manage-table .title-container h2 a {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .manage-table .action a:hover {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .comment-content .btn-1:hover{
-    background: #ff214f;
+    background: #f0c52e;
     color: #fff;
 }
 
 .dashboard-nav ul li span.nav-tag {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .bg-active {
-    background: #ff214f;
+    background: #f0c52e;
     color: #fff !important;
 }
 
 .typography .list-3 li:before, .list-2 li:before, .list-1 li:before {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .numbered.color.filled ol > li::before {
-    border: 1px solid #ff214f;
-    background-color: #ff214f;
+    border: 1px solid #f0c52e;
+    background-color: #f0c52e;
 }
 
 .numbered.color ol > li::before {
-    border: 1px solid #ff214f;
-    color: #ff214f;
+    border: 1px solid #f0c52e;
+    color: #f0c52e;
 }
 
 .widget-link:hover {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .coming-soon-inner .btn, .coming-soon-inner .btn:hover, .coming-soon-inner .btn:active {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .property-box-2 .detail .title a {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 
 .tabbing-box .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
-    background-color: #ff214f;
+    background-color: #f0c52e;
 }
 
 .tabbing-info .tabbing-box .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link{
@@ -644,41 +644,41 @@ li.active.btn.filtr-button.filtr {
 }
 
 .tabbing-box .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link:hover {
-    background-color: #ff214f;
+    background-color: #f0c52e;
 }
 
 .view-all ul li a:hover {
-    background: #ff214f;
+    background: #f0c52e;
     color: #fff;
 }
 
 .map-marker:hover {
-    background-color: #ff214f;
+    background-color: #f0c52e;
     cursor: pointer;
 }
 
 .map-marker:hover:before {
-    border-color: #ff214f transparent transparent transparent;
+    border-color: #f0c52e transparent transparent transparent;
 }
 
 .map-marker.featured:hover {
-    background-color: #ff214f;
+    background-color: #f0c52e;
 }
 
 .map-marker.featured:hover:before {
-    border-color: #ff214f transparent transparent transparent;
+    border-color: #f0c52e transparent transparent transparent;
 }
 
 .map-marker .icon {
-    border: 3px solid #ff214f;
+    border: 3px solid #f0c52e;
 }
 
 .brand-box h5{
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .contact-section .btn-section .active-bg {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .contact-section .form-section .checkbox-theme input[type="checkbox"]:checked + label::before {
@@ -687,58 +687,58 @@ li.active.btn.filtr-button.filtr {
 }
 
 .contact-section .form-section .btn-theme {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .contact-section .form-section .btn-theme:hover {
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .marker-active .map-marker {
-    background-color: #ff214f;
+    background-color: #f0c52e;
 }
 
 .marker-active .map-marker:before {
-    border-color: #ff214f transparent transparent transparent;
+    border-color: #f0c52e transparent transparent transparent;
 }
 
 .slick-arrow-buton:hover{
-    background: #ff214f;
+    background: #f0c52e;
 }
 
 .map-properties .address i {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .map-properties .map-content h4 a {
-    color: #ff214f;
+    color: #f0c52e;
 }
 
 .dropzone-design:hover {
-    border: 2px dashed #ff214f;
+    border: 2px dashed #f0c52e;
 }
 
 @media (max-width: 992px) {
     .main-header .navbar-expand-lg .navbar-nav .nav-link:hover {
-        color: #ff214f;
+        color: #f0c52e;
     }
 }
 
 @media (max-width: 768px) {
     .navbar-default .navbar-toggle .icon-bar {
-        background-color: #ff214f;
+        background-color: #f0c52e;
     }
 
     .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
-        background-color: #ff214f !important;
+        background-color: #f0c52e !important;
     }
 
     .main-header .navbar-default .nav > li > a:hover {
-        background: #ff214f;
+        background: #f0c52e;
     }
 
     .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
-        background-color: #ff214f !important;
+        background-color: #f0c52e !important;
     }
 
     .navbar-default .navbar-nav .open .dropdown-menu > li > a {

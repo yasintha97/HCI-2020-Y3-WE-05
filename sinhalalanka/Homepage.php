@@ -296,7 +296,7 @@
                 </div>
             </div>
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-                <div class="media service-info-2" onclick="location.href='#';" style="cursor: pointer;">
+                <div class="media service-info-2" onclick="location.href='./music/music.php';" style="cursor: pointer;">
                     <div class="icon">
                         <i class="lnr lnr-music-note"></i>
                         <h5>Sinhala mp3</h5>
@@ -371,7 +371,7 @@
                   <img src="img/deraba.png" alt="">
                 </div>
                 <div class="poca-music-content">
-                  <span class="music-published-date">October 14, 2020</span>
+                  <span class="music-published-date">October 17, 2020</span>
                   <h2>FM Derana</h2>
                   <div class="music-meta-data">
                     <p>By <a href="#" class="music-author">SinhalaLanka.com</a></p>
@@ -491,7 +491,7 @@
                                 <div class="category-overlay">
                                     <div class="category-content">
                                         <h3 class="category-title">
-                                            <a href="properties-list-rightside.html">Greetings Cards</a>
+                                            <a href="./GreetingCards/index-4.html">Greetings Cards</a>
                                         </h3>
                                         <h4 class="category-subtitle">6+ categories</h4>
                                     </div>
@@ -505,7 +505,7 @@
                                 <div class="category-overlay">
                                     <div class="category-content">
                                         <h3 class="category-title">
-                                            <a href="#">Greetings Cards</a>
+                                            <a href="./GreetingCards/gallery-3column.html">Greetings Cards</a>
                                         </h3>
                                         <h4 class="category-subtitle">1000+ Cards</h4>
                                     </div>
@@ -521,7 +521,7 @@
                         <div class="category-overlay">
                             <div class="category-content">
                                 <h3 class="category-title">
-                                    <a href="#">Sinhala Mp3</a>
+                                    <a href="./music/music.php">Sinhala Mp3</a>
                                 </h3>
                                 <h4 class="category-subtitle">3000+ Songs</h4>
                             </div>
@@ -712,12 +712,12 @@
                         <td style="color:azure;">14</td>
                         <td style="color:azure;">15</td>
                         <td style="color:azure;">16</td>
-                        <td style="color:azure;">17</td>
+                        <td style="color:blue;"><strong>17</strong></td>
                         <td style="color:azure;">18</td>
                     </tr>
                     <tr>
                         <td style="color:azure;">19</td>
-                        <td class="btn-primary"><strong>20</strong></td>
+                        <td class="color:azure;">20</td>
                         <td style="color:azure;">21</td>
                         <td style="color:azure;">22</td>
                         <td style="color:azure;">23</td>
